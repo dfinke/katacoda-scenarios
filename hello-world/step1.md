@@ -2,6 +2,6 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+Let's figure out what version of *PowerShell* is running.
 
-`echo 'Hello World'`{{execute}}
+`$PSVersionTable`{{execute}}

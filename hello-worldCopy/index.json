@@ -6,7 +6,7 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1 - Run Command",
+        "title": "Step 1 - Display Version",
         "text": "step1.md"
       }
     ],
@@ -20,7 +20,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive PowerShell Terminal\u001b[m\r\n"
   },
   "backend": {
     "imageid": "powershell"
