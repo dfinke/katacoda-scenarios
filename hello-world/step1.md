@@ -4,4 +4,5 @@ This is your first step.
 
 Let's figure out what version of *PowerShell* is running.
 
+
 `$PSVersionTable`{{execute}}
