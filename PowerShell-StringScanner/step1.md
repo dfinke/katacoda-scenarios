@@ -30,3 +30,8 @@ This is your first step.
 
 `$scanner.Scan("\w+")`{{execute}}
 
+## Finally, loop
+
+`$scanner.Reset()`{{execute}}
+
+`while(!$scanner.EoS()) {$scanner.Scan('\w+')}`{{execute}}
