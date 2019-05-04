@@ -13,3 +13,20 @@ This is your first step.
 ## Try it out
 
 `"123 456 789".Scan('\d+')`{{execute}}
+
+## Create a scanner
+
+`$scanner = New-PSStringScanner "The quick brown fox"`{{execute}}
+
+## What can be done?
+
+`$scanner | Get-Member`{{execute}}
+
+## Let's Scan
+
+`$scanner.Scan("\w+")`{{execute}}
+
+## Once more
+
+`$scanner.Scan("\w+")`{{execute}}
+
