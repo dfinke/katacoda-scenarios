@@ -15,6 +15,7 @@
       }
     ],
     "intro": {
+      "courseData": "background.ps1",
       "text": "intro.md",
       "credits": ""
     },
