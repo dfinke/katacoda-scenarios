@@ -1,1 +1,1 @@
-sYou've completed the `PowerShell` WordCount Scenario!
+You've completed the `PowerShell` word count Scenario!
