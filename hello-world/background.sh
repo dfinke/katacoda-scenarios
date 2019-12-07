@@ -1,1 +1,0 @@
-pwsh -c { install-module importexcel -force }

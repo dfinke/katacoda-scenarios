@@ -1,8 +1,8 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "PowerShell Word Count Script",
+  "description": "Your First PowerShell Command Line Script",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "7 minutes",
   "details": {
     "steps": [
       {
@@ -10,11 +10,20 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2 - See the Count",
+        "title": "Step 2 - Create the wc.ps1 PowerShell script",
         "text": "step2.md"
+      },
+      {
+        "title": "Step 3 - Create the wc.tests.ps1 PowerShell script",
+        "text": "step3.md"
+      },
+      {
+        "title": "Step 4 - Invoke-Pester",
+        "text": "step4.md"
       }
     ],
     "intro": {
+      "courseData": "background.sh",
       "text": "intro.md",
       "credits": ""
     },
