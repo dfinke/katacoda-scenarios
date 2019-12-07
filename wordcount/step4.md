@@ -2,11 +2,8 @@ Run the tests
 
 ## Tasks
 
-Clear the screen
-`Clear-Host`{{execute}}
-
-See the content of the test file
-`cat ./wc.tests.ps1`{{execute}}
-
-Invoke-Pester and run the tests
-`Invoke-Pester`{{execute}}
+```
+Clear-Host         # Clear the screen
+cat ./wc.tests.ps1 # See the content of the test file
+Invoke-Pester      # Invoke-Pester and run the tests
+```{{execute}}
